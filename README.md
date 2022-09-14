@@ -5,18 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrahimratulalikhan" alt="abdurrahimratulalikhan" /></a> </p>
 
-- 🔭 I’m currently serving as a [Software Engineer & Audio Engineer @ Fiverr (Freelance Opportunities).](https://www.fiverr.com)
+- I’m currently serving as a [Software Engineer & Audio Engineer @ Fiverr (Freelance Opportunities).](https://www.fiverr.com)
 
-- 💬 Personal Portfolio Website **sites.google.com/view/abdurrahimratulalikhan**
+- I’m currently learning **React & AngularJS**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- About me [Personal Portfolio Website](sites.google.com/view/abdurrahimratulalikhan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdurrahimratulalikhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurrahimratulalikhan" height="30" width="40" /></a>
-<a href="/https://sites.google.com/view/abdurrahimratulalikhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sites.google.com/view/abdurrahimratulalikhan" height="30" width="40" /></a>
+<a href="https://instagram.com/abdurrahimratulalikhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdurrahimratulalikhan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ratulali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ratulali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
