@@ -9,7 +9,7 @@
 
 - I’m currently learning **React & AngularJS**
 
-- About me [Personal Portfolio Website](sites.google.com/view/abdurrahimratulalikhan)
+- About me [Personal Portfolio Website | sites.google.com/view/abdurrahimratulalikhan](sites.google.com/view/abdurrahimratulalikhan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
