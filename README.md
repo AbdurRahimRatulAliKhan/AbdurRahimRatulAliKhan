@@ -1,4 +1,4 @@
-Currently, I’ve been serving as a Freelancer @ Fiverr by focusing on Full Stack roles. Throughout my career, I've served in various sectors & worked in various environments. My primary strength lies and I adore myself as a polyglot with a strong feeling for .NET Technologies. I love to explore & always keen to learn new technologies in my leisure. Also, I predominantly like Piano Music & get to know about different Cultures & People.
+Currently, I’ve been serving as a Research, and Development Engineer by focusing on Full Stack roles. Throughout my career, I've served in various sectors & worked in various environments. My primary strength lies and I adore myself as a polyglot with a strong feeling for .NET Technologies. I love to explore & always keen to learn new technologies in my leisure. Also, I predominantly like Piano Music & get to know about different Cultures & People.
 
 RESEARCH INTEREST: Programming Languages and Formal Methods, & AI (Machine Learning)
 
