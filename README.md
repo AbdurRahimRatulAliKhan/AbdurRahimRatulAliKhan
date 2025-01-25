@@ -1,4 +1,19 @@
-I'm a Research, and Development (R&D) Software Engineer & Currently, I’ve been serving by focusing on Full Stack roles. Throughout my career, I've served in various sectors & worked in various environments. I'm nurturing expertise in Software Engineering (SWE), focusing on Bioinformatics, Cybersecurity, Acoustics and Signal Processing, Speech Processing, AI (Machine Learning), Optimization, and Scientific Computing. My primary strength lies and I adore myself as a polyglot with a strong feeling for Research, and Development (R&D). I love to explore & always keen to learn new technologies in my leisure. Also, I predominantly like Piano Music & get to know about different Cultures & People.
+I'm a Research, and Development (R&D) Software Engineer & Currently, I’ve been serving at icddr,b (formerly known as the International Centre for Diarrhoeal Disease Research, Bangladesh) by focusing on Full Stack roles. Previously, I've worked at Shahjalal Islami Bank PLC (SJIBPLC), AzolutionSE, and DevsFair, where I specialized in full-stack development with a focus on Research and Development (R&D). Throughout my career, I've served in various sectors & worked in various environments. I'm nurturing expertise in Software Engineering (SWE), focusing on Bioinformatics, Cybersecurity, Acoustics and Signal Processing, Speech Processing, AI (Machine Learning), Optimization, and Scientific Computing. 
+
+I obtained a B.Sc. (Engg.) degree in Computer Science and Engineering from Uttara University (UU) in Dhaka, Bangladesh. Prior to this, I initially enrolled in the B.Sc (Hons.) in Mathematics program at Pabna University of Science and Technology (PUST) in Pabna, Bangladesh. 
+
+My primary strength lies and I adore myself as a polyglot with a strong feeling for Research, and Development (R&D). I love to explore & always keen to learn new technologies in my leisure. Also, I predominantly like Piano Music & get to know about different Cultures & People.
+
+
+Skills: Problem-Solving, Algorithm & Data Structures, OOP
+Languages: Python, C#, TypeScript, JavaScript, HTML, CSS
+Libraries: Keras, OpenCV, Pandas, NumPy, jQuery
+Tools: MATLAB, Proteus, GitHub/Bitbucket, Trello/Jira, Swagger/Postman, Slack, Git
+Editors: VS Code (Visual Studio Code), LaTeX
+Databases: MS SQL Server, MySQL Workbench
+Frameworks: TensorFlow, PyTorch, .NET Technologies,  Angular, Bootstrap
+Reports: SAP Crystal Server (RPT)/Report Definition Language Client (RDLC)
+SD-Concepts: Agile (Scrum Sprint) Methodology, Clean Architecture/Three-Tier Architecture, SOLID Principles, MVC/Repository/Layered Architectural Patterns, Facade/Factory Design Pattern
 
 RESEARCH INTEREST: Software Engineering (SWE) - Bioinformatics, Cybersecurity, Acoustic Signal Processing, AI (Machine Learning), and Formal Methods.
 
