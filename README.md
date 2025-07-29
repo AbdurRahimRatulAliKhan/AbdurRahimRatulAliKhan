@@ -6,7 +6,7 @@ Frameworks: ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?
 Tools and Platforms: ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=flat&logo=swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23E6632A.svg?style=flat&logo=mathworks&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=flat&logo=slack&logoColor=white)  
 Databases: ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
 
-RESEARCH INTEREST: Software Engineering (SWE) - Data Science, Big Data, AI/ML...
+RESEARCH INTEREST: Software Engineering (SWE) - Data Science, Big Data, AI/ML....
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbdurRahimRatulAliKhan&icon=5&color=12)](https://visitcount.itsvg.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurrahimratulalikhan) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/arrakpp) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/arrakpp) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arrakpp) 
