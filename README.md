@@ -1,6 +1,8 @@
-I'm an accomplished **Programmer (R&D)** with a strong background in software engineering, data science, and AI/ML. I'm currently pursuing a Master's in Information Technology at Jahangirnagar University. I further honed my analytical skills by completing the “R for Applied Statistics and Data Science” program at the Institute of Statistical Research and Training (ISRT), University of Dhaka (DU). My experience includes roles at icddr,b, Shahjalal Islami Bank PLC, Azolution Software and Engineers Ltd., and Devsfair, focusing on system development, security monitoring, and research. I've multiple publications and serve as a reviewer for Springer Nature. My technical skills include various programming languages, frameworks, and databases..
+I'm an accomplished **Programmer (R&D)** with a strong background in software engineering, data science, and AI/ML. I'm currently pursuing a Master's in Information Technology at Jahangirnagar University. I further honed my analytical skills by completing the “R for Applied Statistics and Data Science” program at the Institute of Statistical Research and Training (ISRT), University of Dhaka (DU). My experience includes roles at icddr,b, Shahjalal Islami Bank PLC, Azolution Software and Engineers Ltd., and Devsfair, focusing on system development, security monitoring, and research. I've multiple publications and serve as a reviewer for Springer Nature. My technical skills include various programming languages, frameworks, and databases.
 
-*Crafts: Problem-Solving • Algorithms & Data Structures • Object-Oriented Programming (OOP)*
+### Crafts 
+---
+Problem-Solving • Algorithms & Data Structures • Object-Oriented Programming (OOP)**
 
 ### Stacks
 ---
@@ -10,6 +12,6 @@ I'm an accomplished **Programmer (R&D)** with a strong background in software en
 ---
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0460-6141) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=LuTjuvUAAAAJ) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ratul-Ali) [![Academia](https://img.shields.io/badge/Academia.edu-41454A?logo=academia&logoColor=white)](https://icddrb.academia.edu/RatulAli) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ARRAK) [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-258FFA?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/ratulali-9096/) [![](https://visitcount.itsvg.in/api?id=AbdurRahimRatulAliKhan&icon=5&color=12)](https://visitcount.itsvg.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurrahimratulalikhan) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@AbdurRahimRatulAliKhan) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/iamabdurrahimratulalikhan/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/ImAbdurRahimRatulAliKhan/)  
 
-**RESEARCH INTEREST
+### Research Interest
 ---
 Software Engineering (SWE), Data Science, Cybersecurity, AI/ML**
