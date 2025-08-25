@@ -2,11 +2,65 @@ I'm an accomplished **Programmer (R&D)** with a strong background in software en
 
 **Scientific Portfolio (ORCID): https://orcid.org/0000-0003-0460-6141**
 
-Programming Languages: ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-Libraries: ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23gold.svg?style=flat&logo=opencv&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)  
-Frameworks: ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=flat&logo=.net&logoColor=white)  
-Tools and Platforms: ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=flat&logo=swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23E6632A.svg?style=flat&logo=mathworks&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=flat&logo=slack&logoColor=white)  
-Databases: ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
+### Crafts  
+Problem-Solving • Algorithms & Data Structures • Object-Oriented Programming (OOP)  
+
+### Programming Languages  
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
+![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=flat&logo=csharp&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
+
+### Libraries  
+![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=flat&logo=R&logoColor=white)  
+![dplyr](https://img.shields.io/badge/dplyr-276DC3?style=flat&logo=R&logoColor=white)  
+![ggplot2](https://img.shields.io/badge/ggplot2-1A162D?style=flat&logo=R&logoColor=white)  
+![readr](https://img.shields.io/badge/readr-276DC3?style=flat&logo=R&logoColor=white)  
+![stringr](https://img.shields.io/badge/stringr-276DC3?style=flat&logo=R&logoColor=white)  
+![lubridate](https://img.shields.io/badge/lubridate-276DC3?style=flat&logo=R&logoColor=white)  
+![data.table](https://img.shields.io/badge/data.table-276DC3?style=flat&logo=R&logoColor=white)  
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)  
+
+### Statistics (via RStudio)  
+Data Management • Regression (Linear, Logistic, Multilevel) • Panel & Time-Series Analysis • Survey Data Procedures • Graphics & Visualization  
+
+### Frameworks  
+![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=flat&logo=.net&logoColor=white)  
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)  
+
+### Tools  
+![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=flat&logo=swagger&logoColor=black)  
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)  
+![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=flat&logo=slack&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)  
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)  
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)  
+
+### IDEs / Editors  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)  
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)  
+
+### Databases  
+![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft%20sql%20server&logoColor=white)  
+![MySQL Workbench](https://img.shields.io/badge/MySQL-00f.svg?style=flat&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
+
+### Reporting Tools  
+SAP Crystal Server (RPT) • Report Definition Language Client (RDLC)  
+
+### Software Development Concepts  
+Agile (Scrum/Sprint) • Clean Architecture • Three-Tier Architecture • SOLID Principles • MVC • Repository Pattern • Layered Architecture • Facade Design Pattern • Factory Design Pattern  
+
 
 **RESEARCH INTEREST: Software Engineering (SWE), Data Science, Cybersecurity, AI/ML**
 
