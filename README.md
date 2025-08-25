@@ -11,7 +11,14 @@ Databases: ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Serve
 **RESEARCH INTEREST: Software Engineering (SWE), Data Science, Cybersecurity, AI/ML**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbdurRahimRatulAliKhan&icon=5&color=12)](https://visitcount.itsvg.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurrahimratulalikhan) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/arrakpp) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/arrakpp) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arrakpp) 
-
-
-  
+[![](https://visitcount.itsvg.in/api?id=AbdurRahimRatulAliKhan&icon=5&color=12)](https://visitcount.itsvg.in)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurrahimratulalikhan)  
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0460-6141)  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=LuTjuvUAAAAJ)  
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ratul-Ali)  
+[![Academia](https://img.shields.io/badge/Academia.edu-41454A?logo=academia&logoColor=white)](https://icddrb.academia.edu/RatulAli)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ARRAK)  
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-258FFA?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/ratulali-9096/)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@AbdurRahimRatulAliKhan)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/iamabdurrahimratulalikhan/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/ImAbdurRahimRatulAliKhan/)  
