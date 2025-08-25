@@ -2,7 +2,7 @@ I'm an accomplished **Programmer (R&D)** with a strong background in software en
 
 ### Crafts 
 ---
-Problem-Solving • Algorithms & Data Structures • Object-Oriented Programming (OOP)**
+**Problem-Solving • Algorithms & Data Structures • Object-Oriented Programming (OOP)**
 
 ### Stacks
 ---
@@ -14,4 +14,4 @@ Problem-Solving • Algorithms & Data Structures • Object-Oriented Programming
 
 ### Research Interest
 ---
-Software Engineering (SWE), Data Science, Cybersecurity, AI/ML**
+**Software Engineering (SWE), Data Science, Cybersecurity, AI/ML**
