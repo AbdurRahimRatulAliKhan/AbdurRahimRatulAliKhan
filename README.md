@@ -141,12 +141,6 @@ I am a security-first Software Engineer and Consultant bridging the gap between 
   </tr>
   <tr>
     <td>2025 - Present</td>
-    [cite_start]<td><b>Consultant (IT)</b> (IOTA) [cite: 48]</td>
-    [cite_start]<td>Managerial leadership role, where I: Collaborate closely with client teams to design and implement customized software solutions that enable paperless, sustainable, and secure operations,
-leveraging: Cybersecurity frameworks, Data science technologies, Web-based platforms, Android applications, Artificial Intelligence / Machine Learning solutions. ISO Standards implementation (90003, 27001, 42001), Secure paperless solutions for 12+ Banks & Govt entities[cite: 51, 53].</td>
-  </tr>
-  <tr>
-    <td>2025</td>
     [cite_start]<td><b>Data Management Officer (also role played as a Programmer)</b> (icddr,b) [cite: 55]</td>
     [cite_start]<td>CHAMPS LC DSS App, LC Data Portal, C#, Clean Architecture, Collab with Emory University[cite: 58, 59].</td>
   </tr>
